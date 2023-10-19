@@ -1,3 +1,7 @@
+10/19/23
+- reviewed and remade another FundMe contract blind.
+- working on JS logic for ETH converter v2.
+
 10/18/23
 - added more functionality to FundMe contract. Convert an amount of ETH to an amount of USD
 - learned that tx for msgs are all base wei, 1e18
