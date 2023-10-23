@@ -1,5 +1,5 @@
 10/23/23
-- reviewed contructor functions
+- reviewed constructor functions
 
 10/19/23
 - reviewed and remade another FundMe contract blind.
