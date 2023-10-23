@@ -1,3 +1,6 @@
+10/23/23
+- reviewed contructor functions
+
 10/19/23
 - reviewed and remade another FundMe contract blind.
 - working on JS logic for ETH converter v2.
