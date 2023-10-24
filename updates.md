@@ -1,3 +1,9 @@
+10/24/23
+- reviewed FundMe.sol
+- solidity libraries
+- imported {PriceConverter}
+- using PriceConverter for uint256;
+
 10/23/23
 - reviewed constructor functions
 
