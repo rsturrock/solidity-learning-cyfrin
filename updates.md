@@ -1,3 +1,10 @@
+10/26/23
+- SafeMath
+- For Loops
+- Resetting an Array
+- Withdrawing from a function
+- Constructor Functions
+  
 10/24/23
 - reviewed FundMe.sol
 - solidity libraries
