@@ -1,9 +1,12 @@
+10/27/23
+- created an ether unit converter
+
 10/26/23
-- SafeMath
-- For Loops
-- Resetting an Array
-- Withdrawing from a function
-- Constructor Functions
+- safeMath
+- for Loops
+- resetting an Array
+- withdrawing from a function
+- constructor Functions
   
 10/24/23
 - reviewed FundMe.sol
