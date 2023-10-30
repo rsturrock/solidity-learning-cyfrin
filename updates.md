@@ -1,3 +1,8 @@
+10/30/23
+- reviewed FundMe
+- reviewed libraries
+- using {Library} for uint256
+
 10/27/23
 - created an ether unit converter
 
