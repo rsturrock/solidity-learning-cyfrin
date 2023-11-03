@@ -1,3 +1,6 @@
+11/3/23
+- reviewed sending eth via transfer, send, call
+
 10/31/23
 - built new FundMe
 - built new PriceConversion for FundMe
