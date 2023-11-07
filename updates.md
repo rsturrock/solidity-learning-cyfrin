@@ -1,3 +1,6 @@
+11/7/23
+- reviewed all notes
+
 11/3/23
 - reviewed sending eth via transfer, send, call
 
