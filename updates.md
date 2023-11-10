@@ -1,8 +1,8 @@
 11/10/23
--reviewed all notes
+- reviewed all notes
 
 11/8/23
--reviewed all notes
+- reviewed all notes
 
 11/7/23
 - reviewed all notes
