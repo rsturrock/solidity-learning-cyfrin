@@ -1,3 +1,6 @@
+11/10/23
+-reviewed all notes
+
 11/8/23
 -reviewed all notes
 
